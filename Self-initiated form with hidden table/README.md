@@ -1,6 +1,8 @@
 ### What this code should do
 Start the form by opening the file and hiding the data table.
 
+![](Example.gif)
+
 ### Code in the file
 
 ```
