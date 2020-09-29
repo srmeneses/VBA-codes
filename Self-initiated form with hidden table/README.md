@@ -5,7 +5,7 @@ Start the form by opening the file and hiding the data table.
 
 ### Code in the file
 
-```
+```VBA
 Private Sub Workbook_Open()
 
     'This line hides the table
