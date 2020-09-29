@@ -3,7 +3,7 @@ Calculate the number of days between today's date and the deadline when opening 
 
 ### Code in the file
 
-```
+```VBA
 Private Sub Workbook_Open()
     
     'First line with data because the first line contains the header
